@@ -1,4 +1,4 @@
-<img src="<2c506d6e-58c0-4318-adc6-a7d49722c161.jpg>" alt="Profil Arka Planı" width="100%">
+<img src="2c506d6e-58c0-4318-adc6-a7d49722c161.jpg" alt="Profil Arka Planı" width="100%">
 <br><br>
 <h1 align="center">Hi 👋, I'm Samet!</h1>
 
