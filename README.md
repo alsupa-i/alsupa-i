@@ -2,12 +2,8 @@
   <img src="2c506d6e-58c0-4318-adc6-a7d49722c161.jpg" width="100%" />
 </p>
 
-<div align="center">
-
-# 🚀 Samet Can ORUÇ
-### Elektronik Teknolojisi & Bilgisayar Programcılığı Öğrencisi
-
-</div>
+<h1 align="center">🚀 Samet Can ORUÇ</h1>
+<h3 align="center">Elektronik Teknolojisi & Bilgisayar Programcılığı Öğrencisi</h3>
 
 <h3 align="center">A computer programming and electronic technology student.</h3>
 
